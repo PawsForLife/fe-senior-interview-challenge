@@ -17,8 +17,9 @@ endpoint.
    a single product's image, name, and price.
 3. **Render a Responsive Grid:** Display the products in a responsive grid
    using Tailwind CSS.
-   _ **Mobile (< 768px):** 2 columns
-   _ **Tablet (>= 768px):** 3 columns \* **Desktop (>= 1024px):** 4 columns
+   - **Mobile (< 768px):** 2 columns
+   - **Tablet (>= 768px):** 3 columns
+   - **Desktop (>= 1024px):** 4 columns
 
 ### Stretch Goals (If time permits)
 
